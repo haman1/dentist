@@ -30,8 +30,9 @@ A django website for a Dental Business
  
  ![carbon (2)](https://user-images.githubusercontent.com/12530131/125638106-9d5ed8bf-daeb-40bb-a2ee-3679687ab0c1.png)
 
-## Deployment 
-The app can be deployed to https://www.heroku.com/
+## Deployment
+Here is the website https://molar.herokuapp.com/
+
 
 ## Author
    haman1
